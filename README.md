@@ -18,5 +18,5 @@ curl --location --request GET 'http://localhost:8000/api/v1/restaurants?city=ban
 ### api play game24
 
 ```
-curl --location --request GET 'http://localhost:8000/api/v1/restaurants?city=bangkok'
+curl --location --request GET 'http://localhost:8000/api/v1/game24/play?num=5555'
 ```
